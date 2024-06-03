@@ -35,13 +35,6 @@ id,price
 
 Each row should contain the ID of the vehicle and the corresponding predicted price.
 
-## Project Structure
-
-- `data/`: Contains the training and test datasets.
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, and model training.
-- `src/`: Source code for data processing, feature engineering, and model building.
-- `models/`: Saved models and any related artifacts.
-- `submission/`: Final submission files.
 
 ## Approach
 
