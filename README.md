@@ -12,12 +12,12 @@ This repository contains my submission for the Vehicle Price Prediction challeng
 
 Given a dataset containing features of used vehicles, our task is to build a predictive model that estimates the price of a vehicle. The evaluation metric for this challenge is RMSE, defined as:
 
-\[ \text{RMSE} = \left( \frac{1}{N} \sum_{i=1}^{N} (\hat{y}_i - y_i)^2 \right)^{1/2} \]
+RMSE = sqrt((1/N) * sum((yi - yi_hat)^2))
 
 where:
-- \( N \) is the number of instances in the test set
-- \( \hat{y}_i \) is the predicted price for instance \( i \)
-- \( y_i \) is the actual price for instance \( i \)
+N is the number of instances in the test set
+yi_hat is the predicted price for instance i
+yi is the actual price for instance i
 
 ## Dataset
 
