@@ -1,5 +1,3 @@
-Sure, here is the description in a copyable format:
-
 ---
 
 # Vehicle Price Prediction Challenge
